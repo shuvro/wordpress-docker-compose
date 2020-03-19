@@ -28,9 +28,9 @@ Make sure to [add your user to the `docker` group](https://docs.docker.com/insta
 Edit the `.env` file to change the default `HOST IP` address, `MySQL` root password, `WordPress database` name, `phpmyadmin` access port, `MySQL` Port.
 
 ## Default IP & Ports @ .env
-`Website` : `http://127.0.0.1:6969`
-`phpMyAdmin` : `http://127.0.0.1:6970`
-`MySql` : `http://127.0.0.1:6971`
+- `Website` : `http://127.0.0.1:6969`
+- `phpMyAdmin` : `http://127.0.0.1:6970`
+- `MySql` : `http://127.0.0.1:6971`
 
 ## Installation
 Copy `.env.example` to a file named `.env`
