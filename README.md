@@ -149,6 +149,6 @@ wp plugin list
 
 ### phpMyAdmin
 
-You can also visit `http://127.0.0.1:8080` to access phpMyAdmin after starting the containers.
+You can also visit `http://127.0.0.1:6970` to access phpMyAdmin after starting the containers.
 
 The default username is `root`, and the password is the same as supplied in the `.env` file.
