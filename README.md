@@ -1,4 +1,4 @@
-# WPDC - WordPress Docker Compose
+# WordPress Docker Compose
 
 Easy WordPress development with Docker and Docker Compose.
 
